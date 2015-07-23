@@ -5,4 +5,4 @@ and write those values to a point feature class for spatial representation.
 
 The example text file is in this repository.    
 
-###### Created as an assignment for GEOG-651 at the University of Maryland.
+###### Created as an assignment for GEOG-656 at the University of Maryland.
